@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Profile": [
+    {
+      "id": 1,
+      "name": "spiderman",
+      "email": "spiderman@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "subhan",
+      "email": "subhan@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "subhan",
+      "email": "subhan@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "subhan",
+      "email": "subhan@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "subhan",
+      "email": "subhan@gmail.com"
+    }
+  ]
+}
